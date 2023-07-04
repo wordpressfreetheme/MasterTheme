@@ -1,0 +1,2 @@
+# MasterTheme
+Wordpress Master Theme
